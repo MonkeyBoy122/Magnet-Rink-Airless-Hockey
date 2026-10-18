@@ -2,7 +2,8 @@
 
 A tabletop hockey game with **no electronics and no air**. Each player holds a wand *under* a clear-topped board. Two stacked N52 magnets in the wand drag a magnetic striker across the top, and the strikers knock a non-magnetic puck around. Everything is 3D printed except the magnets, felt/PTFE pads and M2 screws.
 
-![Day 4 assembly: rink on its frame, walls and goals, two strikers, puck, wands under the board](renders/day4/day4_stage_10.png)
+<img width="1500" height="1125" alt="day4_stage_10" src="https://github.com/user-attachments/assets/46218150-a66c-4d8c-a269-3fdd50d38732" />
+
 
 **Status:** the full CAD is done through Day 4 (parts, walls, goals, seam joint, frame). **Nothing has been printed or tested yet.** Every pull, sag and friction number in this repo comes from a model, not a measurement, and is labelled as an estimate in the journals. Still to do (Day 5 of the plan): goal catch tray with a score counter, a full parts/print-order sheet, and final polish.
 
